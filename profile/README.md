@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-<h4>Making beautiful Open Source Android Applications which makes your life easier!</h4>
+<b>Making beautiful Open Source Android Applications which makes your life easier!</b>
 </div>
 
 <div align="center">
@@ -18,7 +18,7 @@
 <h3>
 <h3 align="center">Show some love! 💕</h3>
 
-<h5>If you like my work/or have used any of my projects, a small contribution is very much appreciated to keep my open source projects going. Donations help me cover the cost of coffee for the time spent in creating stuffs.</h5>
+<b>If you like my work/or have used any of my projects, a small contribution is very much appreciated to keep my open source projects going. Donations help me cover the cost of coffee for the time spent in creating stuffs.</b>
 
 [![Github-sponsors](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/starry69)
 [![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)](https://www.blockchain.com/btc/address/bc1q82qh9hw5xupwlf0f3ddfud63sek53lavk6cf0k)
