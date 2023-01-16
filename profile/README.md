@@ -14,8 +14,8 @@
 
 </div>
 
-<div>
-<h3>
+<div align="center">
+
 <h3 align="center">Show some love! 💕</h3>
 
 <b>If you like my work/or have used any of my projects, a small contribution is very much appreciated to keep my open source projects going. Donations help me cover the cost of coffee for the time spent in creating stuffs.</b>
