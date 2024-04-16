@@ -14,17 +14,3 @@ Hey there! Come hang with us on Telegram for some good vibes! Share ideas, chat,
 [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/PotApps)
 
 </div>
-
-------
-
-<div align="center">
-
-<h3 align="center">Show some love! 💕</h3>
-
-If you like my work or have used any of my projects, a small contribution would be very much appreciated to keep my open-source projects going. Donations help me cover the cost of coffee for the time spent creating stuff. You can either buy my apps from the [Google Play Store](https://play.google.com/store/apps/developer?id=Pool-Of-Tears) or use any of the following mediums below:
-
-[![Github-sponsors](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/starry-shivam)
-![](https://img.shields.io/badge/starry%40airtel-UPI-red?style=for-the-badge)
-[![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)](https://www.blockchain.com/btc/address/bc1q82qh9hw5xupwlf0f3ddfud63sek53lavk6cf0k)
-
-</div>
