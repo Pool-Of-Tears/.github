@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWtqejFqaDUzN3kxdGVzcHI1bnQ4ZXJuYjltamczbnZ5dmpuZDRhcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2aqrBwr9bjsOxfxVF5/giphy.gif" align="center" style="width: 100%" />
 <h1>🐈‍⬛ Pool-Of-Tears 🐾</h1>
-<b>Curated creations from my Open-Source journey. Explore, contribute, and innovate!</b>
+<b>Curated creations from our Open-Source journey. Explore, contribute, and innovate!</b>
 </div>
 
 ------
